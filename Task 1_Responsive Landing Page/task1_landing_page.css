@@ -1,0 +1,153 @@
+html,body {
+    font-family: Arial, sans-serif;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: #7adad4;
+  }
+
+  .welcome-page{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100%;
+    height: 50px;
+    margin: 0;
+    border: 0;
+    color: #11009E;
+  }
+  .welcome-page2 h1{
+    color: rgb(0, 42, 255);
+    /* background-color: bisque; */
+    margin-bottom: 0;
+    /* padding-top: 150px; */
+    font-size: 90px;
+    text-align: center;
+    font-family: 'Tangerine', cursive;
+  }
+  .welcome-page2 h2{
+    color: rgb(226, 43, 128);
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 5px;
+  }
+
+  .logo{
+    margin-top: 5px;
+  }
+
+  .culture{
+    background-image: url(https://www.newsclick.in/sites/default/files/styles/responsive_885/public/2020-08/communist%20indian%20freedom%20struugle.PNG?itok=e3rKSUvH);
+    width: 100%;
+    height: 360px;
+  }
+
+  .navbar{
+    background-color: #27baef;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    overflow:auto;
+  }
+  .navbar a{
+    padding: 15px;
+    color:beige;
+    width:25%;
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+  }
+
+
+  .top-container1 {
+    height: auto;
+    background-color: #E6FFFD;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+    color: black;
+  }
+
+  .top-container1 img{
+    width: auto;
+  }
+
+  .top-container2 {
+    height:auto;
+    background-color: #E6FFFD;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+    color: black;
+  }
+
+  .top-container2 img{
+    width: auto;
+  }
+
+  .top-container1 p{
+    text-align: center;
+    padding: 20px 15px 20px 15px;
+    font-size: 22px;
+    font-family: 'Ubuntu', sans-serif;
+  }
+  .top-container1 h2{
+    color: #0A4D68;
+    font-family: 'Ubuntu', sans-serif;
+  }
+
+  .top-container2 p{
+    text-align: center;
+    padding: 20px 15px 20px 15px;
+    font-size: 22px;
+    font-family: 'Ubuntu', sans-serif;
+  }
+  .top-container2 h2{
+    color: #0A4D68;
+    font-family: 'Ubuntu', sans-serif;
+  }
+
+  h2{
+    color: #4C4B16;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+  }
+  .mid-container1 {
+    display: flex;
+  }
+  .mid-container2{
+    display: flex;
+  }
+  .destination{
+    flex: 25%;
+    padding: 5px;
+  }
+  
+  footer {
+    background-color: #0BBA4B;
+    color: #fff;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  .btn {
+    background-color: #1F6E8C;
+    opacity: 0.9;
+    color:white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-family: 'Ubuntu', sans-serif;
+  }
+  .btn:hover {
+    background-color: #2E8A99;
+    color: white;
+  }
+  
